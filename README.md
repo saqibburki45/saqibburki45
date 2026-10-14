@@ -1,6 +1,6 @@
 <div align="center">
   <h1>SAQIB KHAN</h1>
-  <p><b>Founding AI Engineer | Full-Stack Architect | RAG Systems Specialist</b></p>
+  <p><b>Full Stack Developer | Generative AI Engineer</b></p>
   <br>
 </div>
 
